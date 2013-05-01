@@ -1,4 +1,4 @@
 sample_app
 ==========
 
-Ruby On Rail Tutorial Sampl Application
+Ruby On Rail Tutorial Sample Application
